@@ -45,7 +45,4 @@ A REST API for a social media app. Built with Express, Mongoose, and MongoDB.
 - mongoose
 
 ## Contributors :
-1. Aaquib Ali
-2. Ekta Arora
-3. Shrejal Singh
-4. Ruthvik
+1. Mohasin Haque
